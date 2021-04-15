@@ -19,6 +19,11 @@ OOD detection resource
 **Link:** https://openreview.net/pdf?id=E5CpgfwHBoC
 
 
+## OpenWorld
+
+**Title:** A Critical Evaluation of Open-World Machine Learning [arxiv2020]
+**Link:** https://arxiv.org/pdf/2007.04391.pdf
+
 
 ## Detection for Language:
 **Title:** Pretrained Transformers Improve Out-of-Distribution Robustness [arXiv(2020)]
