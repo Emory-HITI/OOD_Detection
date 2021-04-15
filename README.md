@@ -25,6 +25,10 @@ OOD detection resource
 
 **Link:** https://arxiv.org/pdf/2007.04391.pdf
 
+**Title:** Analyzing the Robustness of Open-World Machine Learning [ACM Workshop on Artificial Intelligence and Security, 2019]
+
+**Link:** https://dl.acm.org/doi/pdf/10.1145/3338501.3357372
+
 
 ## Detection for Language:
 **Title:** Pretrained Transformers Improve Out-of-Distribution Robustness [arXiv(2020)]
