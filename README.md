@@ -22,6 +22,7 @@ OOD detection resource
 ## OpenWorld
 
 **Title:** A Critical Evaluation of Open-World Machine Learning [arxiv2020]
+
 **Link:** https://arxiv.org/pdf/2007.04391.pdf
 
 
