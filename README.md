@@ -14,6 +14,11 @@ OOD detection resource
 **Link:** https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.pdf
 
 
+**Title:** A Benchmark of Medical Out of Distribution Detection [arxiv 2020]
+
+**Link:** https://arxiv.org/pdf/2007.04250.pdf
+
+
 **Title:** Self-supervised Out-of-distribution Detection for Cardiac CMR Segmentation [MIDL 2021] (Under Review)
 
 **Link:** https://openreview.net/pdf?id=E5CpgfwHBoC
