@@ -27,6 +27,12 @@ OOD detection resource
 **Link:** https://openreview.net/pdf?id=E5CpgfwHBoC
 
 
+**Title:** Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization [CVPR2021]
+
+**Link:** https://arxiv.org/pdf/2104.05833.pdf
+
+
+
 ## OpenWorld
 
 **Title:** A Critical Evaluation of Open-World Machine Learning [arxiv2020]
