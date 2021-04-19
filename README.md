@@ -13,6 +13,9 @@ OOD detection resource
 
 **Link:** https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.pdf
 
+**Title:** CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances [NeurIPS2020]
+
+**Link:** https://arxiv.org/pdf/2007.08176.pdf
 
 **Title:** A Benchmark of Medical Out of Distribution Detection [arxiv 2020]
 
