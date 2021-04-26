@@ -32,6 +32,9 @@ OOD detection resource
 **Link:** https://arxiv.org/pdf/2104.05833.pdf
 
 
+**Title:** Anomalous Instance Detection in Deep Learning: A Survey
+
+**Link:** https://www.osti.gov/servlets/purl/1631092
 
 ## OpenWorld
 
